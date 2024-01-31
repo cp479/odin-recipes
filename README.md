@@ -1,4 +1,9 @@
 # odin-recipes
+<h1>V1.3.2</h1>
+<ul>
+<li>Added noopener and noreferrer value to homepage recipe links
+</ul>
+
 <h1>V1.3.1</h1>
 <ul>
 <li>Linked baked recipe from home page</li>
@@ -6,10 +11,14 @@
 </ul>
 
 <h1>V1.3.0</h1>
-Finished third recipe for baked salmon
+<ul>
+<li>Finished third recipe for baked salmon</li>
+</ul>
 
 <h1>V1.2.2</h1>
-Linked the last word recipe from homepage
+<ul>
+<li>Linked the last word recipe from homepage</li>
+</ul>
 
 <h1>V1.2.1</h1>
 <ul>
