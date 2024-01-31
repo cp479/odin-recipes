@@ -1,7 +1,13 @@
 # odin-recipes
+<h1>V1.3.3</h1>
+<ul>
+<li>Added alt text to all images</li>
+<li>Added images directory to practice with local img src locations
+</ul>
+
 <h1>V1.3.2</h1>
 <ul>
-<li>Added noopener and noreferrer value to homepage recipe links
+<li>Added noopener and noreferrer value to homepage recipe links</li>
 </ul>
 
 <h1>V1.3.1</h1>
