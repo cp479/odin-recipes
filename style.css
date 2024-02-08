@@ -5,8 +5,9 @@
 }
 
 .recipe-one{
-    background-color: rgb(66, 233, 61);
+    text-align: center;
     padding: 10px;
-    margin: 10px;
-    border: 50px solid rgb(238, 255, 0)
+    width: 50%;
+    margin: auto;
+    border: 30px inset rgb(247, 232, 34)
 }
