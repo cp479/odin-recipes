@@ -1,4 +1,10 @@
 # odin-recipes
+<h1>V2.0</h1>
+<ul>
+<li> Added CSS styling for practice
+</li>
+</ul>
+
 <h1>V1.3.3</h1>
 <ul>
 <li>Added alt text to all images</li>
