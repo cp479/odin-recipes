@@ -1,3 +1,12 @@
+
 .text{
-    color: rgb(255, 0, 102);
+    color: rgb(0, 0, 0);
+    background-color: red;
+}
+
+.recipe-one{
+    background-color: rgb(66, 233, 61);
+    padding: 10px;
+    margin: 10px;
+    border: 50px solid rgb(238, 255, 0)
 }

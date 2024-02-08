@@ -1,4 +1,9 @@
 # odin-recipes
+<h1>V2.1</h1>
+<ul>
+<li>Added padding, margin, and border to first recipe link for practice</li>
+</ul>
+
 <h1>V2.0</h1>
 <ul>
 <li> Added CSS styling for practice
