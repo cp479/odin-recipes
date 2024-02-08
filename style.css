@@ -1,7 +1,6 @@
 
 .text{
-    color: rgb(0, 0, 0);
-    background-color: red;
+    color: rgb(13, 133, 133);
 }
 
 .recipe-one{
@@ -9,5 +8,21 @@
     padding: 10px;
     width: 50%;
     margin: auto;
-    border: 30px inset rgb(247, 232, 34)
+    border: 10px inset rgb(247, 232, 34)
+}
+
+.recipe-two{
+    text-align: left;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    border: 5px dotted rgb(34, 247, 48)
+}
+
+.recipe-three{
+    text-align: right;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    border: 4px solid rgb(247, 165, 34)
 }
